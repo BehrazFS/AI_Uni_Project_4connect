@@ -29,6 +29,10 @@ The agent was tested against both human players and other agents. Performance wa
 * Win rate.
 * Strategic depth.
 * Response time.
+# Pictures
+
+![diagram](s1.png)
+![diagram](s2.png)
 
 # Team members:
  https://github.com/BehrazFS <br>
